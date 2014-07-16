@@ -10,12 +10,14 @@ For this project, I created a custom genetic algorithm engine from scratch in Ja
 Introduction
 -----------------------------
 The geometric connected dominating set problem (GCDSP) is formally defined as follows: Given a set of points in a plane, P, and a constant B, find the minimum |P'| such that all points P-P' are within euclidean distance of B of some point in P' and such that the graph G=(P^',E) with an edge between two points in P' if and only if they are within distance B of each other is connected[1]. 
+
 This problem is also informally refered to as the “radar” problem and can be stated as follows: given a set of cities, we need to select the minumum number of cities in which to install a range limited radar transmitter such that all cities receive radar coverage and all transmitters are within range of another transmitter. 
+
 An example dataset and solution is shown in Figure 1. Each point represents a city. Square points are considered “selected” and will contain a transmitter whose range is represented by the surrounding circle. In order to be a feasible solution, all points must be within a circle and all selected points must have a path to all other selected points. 
 
 Full report
 -----------------------------
-View the full report in the repository: "SGA Report.pdf"
+View the full report in the repository: "Forbes SGA Report.pdf"
 
 Screenshots
 -----------------------------
