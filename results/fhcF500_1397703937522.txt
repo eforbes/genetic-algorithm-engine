@@ -1,0 +1,39 @@
+[[100], [1.0], [0.01], [ROULETTE], [UNIFORM], [SINGLE_INVERT, DOUBLE_INVERT, HYPERMUTATE], [10000], [300000], [2000], [1.0], [1.0], [1.0]]
+ID MIN_SELECTED AVG_SELECTED STDDEV_SELECTED AVG_GENERATIONS
+0 59 63.6 2.503331114069145 -1.0
+1 57 61.7 2.7100635498903793 -1.0
+2 57 61.3 2.311805451253293 -1.0
+
+
+
+ID NUM_SELECTED NUM_GENERATIONS FEASIBLE
+00 64 -1 true
+01 65 -1 true
+02 64 -1 true
+03 66 -1 true
+04 63 -1 true
+05 60 -1 true
+06 59 -1 true
+07 67 -1 true
+08 65 -1 true
+09 63 -1 true
+10 59 -1 true
+11 63 -1 true
+12 62 -1 true
+13 66 -1 true
+14 61 -1 true
+15 60 -1 true
+16 61 -1 true
+17 65 -1 true
+18 57 -1 true
+19 63 -1 true
+20 59 -1 true
+21 60 -1 true
+22 64 -1 true
+23 57 -1 true
+24 64 -1 true
+25 62 -1 true
+26 63 -1 true
+27 60 -1 true
+28 63 -1 true
+29 61 -1 true
