@@ -1,7 +1,11 @@
 A Simple Genetic Algorithm for the Geometric Connected Dominating Set Problem
 =============================
 
-A simple [genetic algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) engine for the geometric connected dominating set problem written in Java
+A simple [genetic algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) engine for the geometric connected dominating set problem written in Java.
+
+
+![](http://i.imgur.com/XuGpwUE.png)  
+[More screenshots](http://imgur.com/a/bunTi)
 
 Abstract
 -----------------------------
@@ -18,10 +22,6 @@ An example dataset and solution is shown in Figure 1. Each point represents a ci
 Full report
 -----------------------------
 View the full report in the repository: "Forbes SGA Report.pdf"
-
-Screenshots
------------------------------
-[View screenshots here.](http://imgur.com/a/bunTi)
 
 Contact
 -----------------------------
